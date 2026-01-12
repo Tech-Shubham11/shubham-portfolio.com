@@ -1,4 +1,3 @@
-# shubham-portfolio.com
 # 👨‍💻 Shubham Raghuwanshi  
 ### MERN Stack Developer | Full Stack Fresher
 
