@@ -1,5 +1,5 @@
 # 👨‍💻 Shubham Raghuwanshi  
-### MERN Stack Developer | Full Stack Fresher
+###  Full Stack Fresher
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy solving technical challenges and continuously improving my skills to del
 
 **Tech Used:**  
 `HTML` `CSS` `JavaScript` `API Integration`
-![linkedIn dashboard](Screenshot(7).png)
+![linkedIn dashboard](Screenshot (7).png)
 ---
 
 ### 🔹 Food Donation Website *(Major Project – Full Stack)*
@@ -76,7 +76,7 @@ I enjoy solving technical challenges and continuously improving my skills to del
 ## 💼 Achievement
 
 ### 🔹 Inernship certificate in MERN stack*
-![linkedIn dashboard](internship.jpeg)
+![linkedIn dashboard](internship.png)
 
 ## 🔗 Profiles & Links
 - **GitHub:** [https://github.com/Tech-Shubham11](https://github.com/Tech-Shubham11)
