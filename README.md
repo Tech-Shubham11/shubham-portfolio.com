@@ -34,7 +34,7 @@ I enjoy solving technical challenges and continuously improving my skills to del
 
 **Tech Used:**  
 `HTML` `CSS` `JavaScript` `API Integration`
-![linkedIn dashboard] (Screenshot (7).png)
+![linkedIn dashboard](Screenshot(7).png)
 ---
 
 ### 🔹 Food Donation Website *(Major Project – Full Stack)*
@@ -72,6 +72,11 @@ I enjoy solving technical challenges and continuously improving my skills to del
 - Blockchain (Basic Knowledge)
 
 ---
+
+## 💼 Achievement
+
+### 🔹 Inernship certificate in MERN stack*
+![linkedIn dashboard](internship.jpeg)
 
 ## 🔗 Profiles & Links
 - **GitHub:** [https://github.com/Tech-Shubham11](https://github.com/Tech-Shubham11)
