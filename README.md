@@ -34,7 +34,7 @@ I enjoy solving technical challenges and continuously improving my skills to del
 
 **Tech Used:**  
 `HTML` `CSS` `JavaScript` `API Integration`
-![linkedIn dashboard](Screenshot (7).png)
+![linkedIn dashboard](cryptowebsite.png)
 ---
 
 ### 🔹 Food Donation Website *(Major Project – Full Stack)*
